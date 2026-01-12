@@ -41,7 +41,7 @@ In-depth technical articles on:
 
 ### 💡 AI Applications
 - **[ai_stock_discovery_tool](https://github.com/pyaichatbot/ai_stock_discovery_tool)**: AI-powered stock analysis and discovery
-- **[alip](https://github.com/pyaichatbot/alip)**: AI-powered language interface (Apache 2.0)
+- **[alip](https://github.com/pyaichatbot/alip)**: AI-Assisted Legacy Intelligence Platform (Apache 2.0)
 - **[EchoNestAI](https://github.com/pyaichatbot/EchoNestAI)**: Voice-first AI interaction system
 
 ### 📚 Learning & Experiments
